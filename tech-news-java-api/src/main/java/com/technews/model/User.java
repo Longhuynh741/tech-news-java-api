@@ -1,7 +1,6 @@
 package com.technews.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import sun.jvm.hotspot.gc.shared.Generation;
 
 import javax.persistence.*;
 import java.io.Serializable;
